@@ -1,0 +1,8 @@
+[
+    {
+        "key": "ctrl+s",
+        "when": "activeEditor && !activeEditorIsDirty && !activeEditorIsReadonly",
+        "command": "workbench.action.tasks.runTask",
+        "args": "byte_san"
+    }
+]
